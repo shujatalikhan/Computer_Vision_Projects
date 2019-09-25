@@ -1,2 +1,2 @@
 ### OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. 
-### In the Following project :Reading the image and Done with the basic operations on images by drawing Lines
+### In the Following project :Reading the image and Done with the basic operations on images by drawing Lines,Circle,Rectangle and Polyline  
