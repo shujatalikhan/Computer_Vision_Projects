@@ -1,0 +1,1 @@
+## In this Program, we're going to be covering how to reduce the background of images, by detecting motion. This is going to require us to re-visit the use of video. You can use your webcam if you like, or use a video like:
